@@ -1,3 +1,16 @@
+## Expense Tracker
+
+Keep track of income and expenses. Add and remove items and save to local storage
+
+## Project Specifications
+
+- Create UI for project
+- Display transaction items in DOM
+- Show balance, expense and income totals
+- Add new transation and reflect in total
+- Delete items from DOM
+- Persist to local storage
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
